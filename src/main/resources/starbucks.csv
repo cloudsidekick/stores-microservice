@@ -1,4 +1,4 @@
-﻿brand,store number,name,ownership type,facility iD,features - products,features - service,features - stations,food region,venue type,phone number,location,street address,street line 1,street line 2,city,state,zip,country,coordinates,latitude,longitude,insert date
+﻿Brand,Store Number,Name,Ownership Type,Facility ID,Features - Products,Features - Service,Features - Stations,Food Region,Venue Type,Phone Number,Location,Street Address,Street Line 1,Street Line 2,City,State,Zip,Country,Coordinates,Latitude,Longitude,Insert Date
 Starbucks,11854,Epping Main St,Company Owned,18228,"Lunch, Oven-warmed Food, Reserve Amenity","Starbucks Card Mobile, Wireless Hotspot",Drive-Through,9999,Unknown,603-679-8789,"96 Calef Highway
 Epping, NH 03042-2224
 (43.031873, -71.073203)",96 Calef Highway,96 Calef Highway,,Epping,NH,03042-2224,US,"(43.031873, -71.073203)",43.031873,-71.073203,06/22/2012 06:17:10 PM
