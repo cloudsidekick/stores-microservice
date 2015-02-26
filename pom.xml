@@ -14,7 +14,6 @@
 	<properties>
 		<mongodb.version>2.12.1</mongodb.version>
 	</properties>
-	
 	<dependencies>
 	
 		<dependency>
