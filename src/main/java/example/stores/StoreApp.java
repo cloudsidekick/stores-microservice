@@ -36,6 +36,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * 
  * @author Oliver Gierke
  */
+/* simulating adding images record */
 @EnableAutoConfiguration
 @ComponentScan
 @EnableDiscoveryClient
